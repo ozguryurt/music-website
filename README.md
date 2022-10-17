@@ -1,5 +1,5 @@
 # music-website
-Music website for Awawes Music. (HTML, CSS, JavaScript)
+Music website for Awawes Music. (HTML, CSS, JavaScript) (awawesmusic.com)
 
 ### **Main Page**
 ![](https://i.hizliresim.com/cnftxpv.png)
